@@ -12,6 +12,13 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+README:
+===================
+
+* Only modification to Gutenberg story html files was adding my stylesheet.
+* Used https://www.cssmatic.com/noise-texture to create a noisy image to help simulate old paper.
+
+
 License/Copyright
 =================
 
